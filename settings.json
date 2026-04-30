@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "JOIN-SHS.aternos.me",
-    "port": 17274,
+    "port": 41724,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
